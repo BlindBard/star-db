@@ -1,0 +1,22 @@
+.stardbApp {
+  .row {
+    margin-bottom: 1rem;
+  }
+}
+
+.wrapper {
+  max-width: 1024px;
+}
+
+.buttonRow {
+  margin: 0 0 1rem 0;
+
+  button {
+    margin-right: 1rem;
+  }
+}
+
+.section {
+  min-height: calc(100vh - 115px);
+  padding: 2rem 0;
+}

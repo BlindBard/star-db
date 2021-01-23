@@ -1,0 +1,44 @@
+.header {
+  background-color: #181818;
+  padding: 0.5rem 0;
+
+  ul {
+    margin: 0;
+
+    li {
+      list-style: none;
+      margin: 0;
+      border-radius: 3px;
+
+      &:hover {
+        background-color: #444;
+      }
+
+      a {
+        display: block;
+        padding: 0.5rem 1rem;
+      }
+    }
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  h3 {
+    margin: 0;
+
+    a {
+      color: white;
+
+      &:hover {
+        color: #00bc8c;
+      }
+    }
+  }
+
+  button {
+    height: 2.2rem;
+    margin-top: 3px;
+  }
+}
