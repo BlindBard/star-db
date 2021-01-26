@@ -1,5 +1,6 @@
 {
-  "name": "https://blindbard.github.io/star-db/",
+  "name": "star-db",
+  "homepage": "https://blindbard.github.io/star-db/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
